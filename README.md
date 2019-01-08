@@ -1,4 +1,4 @@
-# Javascript DrumKit
+# Javascript Audio Drums
 
 <strong>Description</strong>
 
