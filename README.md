@@ -1,8 +1,8 @@
 # Javascript DrumKit
 
-<bold>Description</bold>
+<strong>Description</strong>
 
-A fun interactive application built using vanilla javascript.  The key pressed responds with a drum sound that's associated with the key press event and animation highlighting the users' selection.
+A fun front-end interactive application built using vanilla javascript.  The key pressed responds with an audio drum sound that's associated with the key pressed and animation is used to highlight the users' selection.
 
 <hr>
 
@@ -14,8 +14,8 @@ Technologies Used
 
 <hr>
 
-<bold>Lessons Learned </bold>
+<strong>Lessons Learned </strong>
 
-1. Key Events
+1. Listening for Transition End Events 
 2. Playing Audio
-3. Listening for Transition End Events which works similarly to listening for animationend events
+3. Key Events
